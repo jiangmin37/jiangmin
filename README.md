@@ -1,2 +1,0 @@
-# jiangmin
-just another repository
